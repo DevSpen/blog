@@ -1,7 +1,3 @@
-# Why Do We Hate the Sound of 'Nails on a Chalkboard'?
-![](https://miro.medium.com/max/463/0*_d48mcKZ7EgadMbg.gif)\
-*cringes* 😧
-
 We all have experienced the irritating 'Nails on a Chalkboard' sound. But why is this sound so annoying? Doesn't it seem a bit random? Actually, it isn't random at all.
 
 ### Frequencies and Ear Canal
