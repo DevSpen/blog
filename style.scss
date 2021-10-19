@@ -30,7 +30,7 @@ body {
   width: 100%;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $white;
   font-weight: bold;
@@ -46,6 +46,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 30px;
+  font-family: $helveticaNeue;
+  color: $purple;
+  font-weight: bold;
+	
   a {
     color: inherit;
   }
@@ -192,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $lightGray;
+  color: $blue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
