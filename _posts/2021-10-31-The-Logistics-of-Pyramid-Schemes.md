@@ -22,4 +22,4 @@ The problem with pyramid schemes is, it becomes impossible at some point for new
 ### Denouement
 This is why pyramid schemes are illegal in most countries. Even though it is illegal, many fraudulent companies have found loopholes. The main issue is there is no fine line between an MLM model and a pyramid scheme, as companies can find easy ways to circumvent laws relating to pyramid schemes. Using very specific language and manipulating the scheme will most likely prevent SEC or FTC from taking any action. 
 
-The question still remains: What will these government organizations do in the future to prevent these awful schemes? That's a question that is almost impossible to answer.
+The question still remains: What will these government organizations do in the future to prevent these awful schemes? That's a question that is almost impossible to answer for now.
