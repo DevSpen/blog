@@ -1,3 +1,8 @@
+---
+layout: post
+title: The Logistics of Pyramid Schemes
+---
+
 A pyramid scheme is an unethical business model that asks members to recruit other members (and those new members to recruit more members) with the promise to have payments (after paying an initial fee) for enrolling others (which includes profits from other members' recruits) into the scheme, rather than fulfilling investments or sale of products. 
 
 ### MLMs vs Pyramids
