@@ -23,7 +23,7 @@ Now, we all have to understand hosting and developing bots costs real money. Sen
 A popular feature, XP level-up roles became premium-only. An ex-MEE6 Support Team Member states:
 >  "I'm thinking in particular of the time when the XP plugin roles-rewards became paid, which frustrated a lot of regular users, even some who were already paying. In my opinion, this event marked the beginning of the bad reputation of MEE6." ~ ZRunner
 
-In addition, premium prices got changed serval times; at its epoch the premium subscription was $9.99 per month, soon after it was lowered to $4.99. Eventually, the price was raised to the current $11.95 per month. People despise these high prices to pay for features that used to be free. 
+In addition, premium prices got changed several times; at its epoch the premium subscription was $9.99 per month, soon after it was lowered to $4.99. Eventually, the price was raised to the current $11.95 per month. People despise these high prices to pay for features that used to be free. 
 Recently, The custom bot feature was removed from MEE6's monthly subscription, and you must buy the lifetime or yearly subscription to get access to it.
 
 Check this comparison:
