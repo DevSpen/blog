@@ -29,7 +29,7 @@ Recently, The custom bot feature was removed from MEE6's monthly subscription, a
 Check this comparison:
 
 | Free Features | Limited Features* | Premium Features |
-| :---- | :---- | :---- |
+| ------------ | ------------ | ------------ |
 | 6 | 11 | 19 |
 
 *\* Limited features are free features that are notably limited to only a few uses of such feature before having to pay a premium subscription.*
