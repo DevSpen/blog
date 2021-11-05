@@ -27,8 +27,9 @@ In addition, premium prices got changed several times; at its epoch the premium 
 Recently, The custom bot feature was removed from MEE6's monthly subscription, and you must buy the lifetime or yearly subscription to get access to it.
 
 Check this comparison:
-| Free Features | Limited Features* |  Premium Features
-| :--- | :--- | :---
+
+| Free Features | Limited Features* | Premium Features |
+| :---- | :---- | :---- |
 | 6 | 11 | 19 |
 
 *\* Limited features are free features that are notably limited to only a few uses of such feature before having to pay a premium subscription.*
