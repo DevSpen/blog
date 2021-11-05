@@ -4,7 +4,8 @@ title: MEE6 - The Tyrant of Discord Bots
 ---
 
 If you've used Discord for over an hour, you surely know of MEE6's existents. MEE6 is the largest Discord bot *(since the recent abatement of Groovy and Rythm)*, used for managing Discord servers.\
-Recently, the MEE6 team has hired new employees and redesigned their whole website and UX. These are some great changes, and it seems the bot is going in the right direction, isn't it? Well, as cliche as it sounds; it was good until it was not.\
+Recently, the MEE6 team has hired new employees and redesigned their whole website and UX. These are some great changes, and it seems the bot is going in the right direction, isn't it? Well, as cliche as it sounds; it was good until it was not.
+
 Let me explain the reality of these new MEE6 instigations, and how MEE6 is becoming more tyrannical by the day.
 
 ### Background
