@@ -36,7 +36,7 @@ Check out this comparison:
 This data shows that over half of MEE6's features are premium, and another large fraction of them are tyrannically limited for non-paying users.
 
 ### New Paid Staff
-Recently, the MEE6 team has been going through lots of changes. One of those changes included the demotions of elder staff of the MEE6 support team. 
+Lately, the MEE6 team has been going through lots of changes. One of those changes included the demotions of elder staff of the MEE6 support team. 
 MEE6 has been trying to expand to a modern and professional company. The upper MEE6 development team decided they wanted to invest in paid support members, rather than volunteers. 
 On August 18th 2021, the applications for "Customer Support Product Specialist" opened, which was an actual employee paid position. This was followed by another announcement for paid support hiring a few weeks later.
 
