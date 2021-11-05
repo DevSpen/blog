@@ -16,7 +16,6 @@ However, MEE6 takes its user-friendliness to the extreme. The dashboard is made 
 Although its user-friendliness may seem like just a smart way of making the bot more accessible to use, it is just a plot to take advantage of newer users. The user-friendliness is not the problem, that is simply what appeals to new users to use MEE6. Rather, it's the fact that MEE6 makes the features so easily accessible; but once a user gets into advanced stuff (e.g. reaction roles, embeds, level roles); they have to pay a premium subscription.\
 This is how MEE6 is the monopolizer of Discord bots, less experienced Discord users eventually get tricked into paying for something which they can easily create with other less known bots.
 
-
 ### Greed
 Announced on November 26th 2018, MEE6 premium was released. This is where the greed starts.\
 Now, we all have to understand hosting and developing bots costs real money. Sensibly, a way to make money from the bot is necessary; especially for such a large bot like MEE6. However, MEE6 premium didn't become just a way to support the developers and gain some extra perks--it locked core features behind a paywall or only allowed for tiny amounts of use of such features. It became clear that MEE6 was being quite a tyrant with premium.\
@@ -30,12 +29,13 @@ Check out this comparison:
 - Free Features: 6 
 - Limited Features: 11
 - Premium Features: 19
+
 \* *Limited features are free features that are notably limited to only a few uses of such feature before having to pay a premium subscription.*\
 \*\* *Data taken from MEE6 site.*
 
 This data shows that over half of MEE6's features are premium, and another large fraction of them are tyrannically limited for non-paying users.
 
-### New Staff
+### New Paid Staff
 Recently, the MEE6 team has been going through lots of changes. One of those changes included the demotions of elder staff of the MEE6 support team. 
 MEE6 has been trying to expand to a modern and professional company. The upper MEE6 development team decided they wanted to invest in paid support members, rather than volunteers. 
 On August 18th 2021, the applications for "Customer Support Product Specialist" opened, which was an actual employee paid position. This was followed by another announcement for paid support hiring a few weeks later.
