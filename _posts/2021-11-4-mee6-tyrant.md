@@ -18,7 +18,7 @@ This is how MEE6 is the monopolizer of Discord bots, less experienced Discord us
 
 ### Greed
 Announced on November 26th 2018, MEE6 premium was released. This is where the greed starts.\
-Now, we all have to understand hosting and developing bots costs real money. Sensibly, a way to make money from the bot is necessary; especially for such a large bot like MEE6. However, MEE6 premium didn't become just a way to support the developers and gain some extra perks--it locked core features behind a paywall or only allowed for tiny amounts of use of such features. It became clear that MEE6 was being quite a tyrant with premium.\
+Now, we all have to understand hosting and developing bots costs real money. Sensibly, a way to make money from the bot is necessary; especially for such a large bot like MEE6. However, MEE6 premium didn't become just a way to support the developers and gain some extra perks—it locked core features behind a paywall or only allowed for tiny amounts of use of such features. It became clear that MEE6 was being quite a tyrant with premium.\
 A popular feature, XP level-up roles became premium-only. An ex-MEE6 Support Team Member states:
 >  "I'm thinking in particular of the time when the XP plugin roles-rewards became paid, which frustrated a lot of regular users, even some who were already paying. In my opinion, this event marked the beginning of the bad reputation of MEE6." ~ ZRunner
 
