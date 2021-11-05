@@ -44,7 +44,7 @@ On August 18th 2021, the applications for "Customer Support Product Specialist" 
 
 After the MEE6 team hired their new paid support employees, the new "Customer Support Product Specialist", Aleks, told the volunteer staff that their previous behavior over the years was unprofessional and childish. Eventually, almost all former volunteer staff were demoted from their position.\
 According to some of the staff, this was "unexpected" and "not right", as they worked very hard with the limited tools they were provided for years; and they were never offered to prove themselves as useful members of this new team. Instead, they were kicked to the side and ignored.\
-Not to mention, Aleks was not even previously active in the MEE6 server before he got hired. Yet, he got hired over others who applied for the position; that had been helping in support channels for years, and had more experience and were professional.\
+Not to mention, Aleks was not even previously active in the MEE6 server before he got hired. Yet, he got hired over others who applied for the position; that had been helping in support channels for years, and had more experience.\
 This once again shows the unethical values of MEE6 and its leaders.
 
 ### Conclusion
