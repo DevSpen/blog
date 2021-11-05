@@ -26,14 +26,12 @@ A popular feature, XP level-up roles became premium-only. An ex-MEE6 Support Tea
 In addition, premium prices got changed several times; at its epoch the premium subscription was $9.99 per month, soon after it was lowered to $4.99. Eventually, the price was raised to the current $11.95 per month. People despise these high prices to pay for features that used to be free. 
 Recently, The custom bot feature was removed from MEE6's monthly subscription, and you must buy the lifetime or yearly subscription to get access to it.
 
-Check this comparison:
-
-| Free Features | Limited Features* | Premium Features |
-| ------------ | ------------ | ------------ |
-| 6 | 11 | 19 |
-
-*\* Limited features are free features that are notably limited to only a few uses of such feature before having to pay a premium subscription.*
-*\**Data taken from MEE6 site.*
+Check out this comparison:
+- Free Features: 6 
+- Limited Features: 11
+- Premium Features: 19
+\* *Limited features are free features that are notably limited to only a few uses of such feature before having to pay a premium subscription.*\
+\*\* *Data taken from MEE6 site.*
 
 This data shows that over half of MEE6's features are premium, and another large fraction of them are tyrannically limited for non-paying users.
 
